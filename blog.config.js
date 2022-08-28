@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  title: '奇幻精品店',
+  author: '许愿选',
+  email: 'streamxuan@gmail.com',
+  link: 'https://sou-yun.cn/PoemIndex.aspx?dynasty=Tang&author=17578',
+  description: '曾许不负莺花愿',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
